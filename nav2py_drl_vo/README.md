@@ -1,4 +1,5 @@
 # nav2py_drl_vo
+==== integrate the nav2 with their algorithm .
 
 This repository provides the Nav2 implementation of DRL-VO navigation control policy, where the paper is ["DRL-VO: Learning to Navigate Through Crowded Dynamic Scenes Using Velocity Obstacles"](
 https://doi.org/10.1109/TRO.2023.3257549
